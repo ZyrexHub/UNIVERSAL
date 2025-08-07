@@ -6,9 +6,9 @@ if placeId ==  3101667897 then
     -- Script for Game 1
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyrexHub/Legends_of_speed/refs/heads/main/FREE"))()
 
-elseif placeId == 987654321 then
+elseif placeId == 137925884276740 then
     -- Script for Game 2
-    loadstring(game:HttpGet("https://your-server.com/scripts/game2.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyrexHub/BUILD_A_PLANE/refs/heads/main/FREE"))()
 
 elseif placeId == 555555555 then
     -- Script for Game 3
