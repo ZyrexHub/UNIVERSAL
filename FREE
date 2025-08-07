@@ -10,10 +10,9 @@ elseif placeId == 137925884276740 then
     -- Script for Game 2
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyrexHub/BUILD_A_PLANE/refs/heads/main/FREE"))()
 
-elseif placeId == 555555555 then
+elseif placeId == 105492766146737 then
     -- Script for Game 3
-    print("You're in Game 3!")
-    -- put your code here...
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyrexHub/bubble_gum_jumping/refs/heads/main/FREE.."))()
 
 else
     -- Default or unknown game
