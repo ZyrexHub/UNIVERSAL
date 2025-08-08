@@ -14,7 +14,7 @@ elseif placeId == 105492766146737 then
     -- Script for Game 3
    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyrexHub/bubble_gum_jumping/refs/heads/main/FREE.."))()
 
-else
-    -- Default or unknown game
-    print("This game is not supported yet.")
+elseif placeId == 126884695634066 then
+
+loadstring(game:HttpGet("https://pastebin.com/raw/7qwrn02Y"))()
 end
